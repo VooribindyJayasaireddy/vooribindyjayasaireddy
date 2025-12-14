@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI & ML undergraduate with practical experience in Generative AI, RAG-based systems, and full-stack development. I have built AI assistants, multimodal chatbots, and real-time computer vision applications using Python, FastAPI, and modern AI frameworks. I am eager to apply my skills in a challenging, growth-oriented environment.
+AI & ML undergraduate with hands-on experience in Generative AI, RAG-based systems, and full-stack development. I have built multi-agent AI systems, including voice-based agents capable of coordinated decision-making, real-time interaction, and task delegation. My work also includes developing AI assistants, multimodal chatbots, and real-time computer vision applications using Python, FastAPI, and modern AI frameworks. I am eager to apply my skills in a challenging, growth-oriented environment.
  
 
 ## 🌐 Socials:
