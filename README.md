@@ -1,7 +1,7 @@
 # 💫 About Me:
 AI & ML undergraduate with hands-on experience in Generative AI, RAG-based systems, and full-stack development. I have built multi-agent AI systems, including voice-based agents capable of coordinated decision-making, real-time interaction, and task delegation. My work also includes developing AI assistants, multimodal chatbots, and real-time computer vision applications using Python, FastAPI, and modern AI frameworks.
  
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/jayasaireddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayasaireddy2005@icloud.com) 
 
