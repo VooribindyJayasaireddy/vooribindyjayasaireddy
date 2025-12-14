@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am an AI & ML undergraduate with practical experience in Generative AI, RAG-based systems, and full-stack development. I have built AI assistants, multimodal chatbots, and real-time computer vision applications using Python, FastAPI, and modern AI frameworks. I am eager to apply my skills in a challenging, growth-oriented environment.
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/jayasaireddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayasaireddy2005@icloud.com) 
